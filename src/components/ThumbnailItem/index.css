@@ -1,0 +1,17 @@
+/* Write your code here. */
+.list-element {
+  display: flex;
+  margin-right: 30px;
+  margin-top: 20px;
+  font-family: 'Roboto';
+  opacity: 0.5;
+}
+
+.remove-opacity {
+  opacity: 1;
+}
+
+.button {
+  border: 0px;
+  padding: 0px;
+}
